@@ -1,3 +1,5 @@
 ollama/ollama
 ghcr.io/open-webui/open-webui:main
 diygod/rsshub
+filebrowser/filebrowser
+onerahmet/openai-whisper-asr-webservice:latest
