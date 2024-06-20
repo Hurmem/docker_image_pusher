@@ -9,3 +9,4 @@ wangqiru/mercury-parser-api:latest
 wangqiru/opencc-api-server:latest
 postgres:16-alpine
 rstudio/rstudio-workbench
+ubuntu:22.04
