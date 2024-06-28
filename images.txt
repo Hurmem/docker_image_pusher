@@ -11,3 +11,4 @@ postgres:16-alpine
 rstudio/rstudio-workbench
 ubuntu:22.04
 diygod/rsshub:latest
+cooderl/wewe-rss-sqlite:latest
