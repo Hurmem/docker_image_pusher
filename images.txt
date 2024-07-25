@@ -12,3 +12,5 @@ rstudio/rstudio-workbench
 ubuntu:22.04
 diygod/rsshub:latest
 cooderl/wewe-rss-sqlite:latest
+harryliu888/audio-notes:v1.0
+pgvector/pgvector:pg16
