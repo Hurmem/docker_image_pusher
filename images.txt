@@ -12,3 +12,6 @@ harryliu888/audio-notes:v1.0
 pgvector/pgvector:pg16
 lgs821/ifile
 xiaoyaliu/alist:latest
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-jellyfin:latest
