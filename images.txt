@@ -14,3 +14,4 @@ diygod/rsshub:latest
 cooderl/wewe-rss-sqlite:latest
 harryliu888/audio-notes:v1.0
 pgvector/pgvector:pg16
+lgs821/ifil
