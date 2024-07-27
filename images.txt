@@ -1,1 +1,13 @@
-lgs821/ifil
+ollama/ollama
+ghcr.io/open-webui/open-webui:main
+diygod/rsshub
+filebrowser/filebrowser
+wangqiru/ttrss:latest
+wangqiru/mercury-parser-api:latest
+wangqiru/opencc-api-server:latest
+postgres:16-alpine
+diygod/rsshub:latest
+cooderl/wewe-rss-sqlite:latest
+harryliu888/audio-notes:v1.0
+pgvector/pgvector:pg16
+lgs821/ifile
