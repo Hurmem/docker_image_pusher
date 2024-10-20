@@ -1,4 +1,1 @@
-sickcodes/docker-osx:sonoma
-sickcodes/docker-osx:ventura
-sickcodes/docker-osx:monterey
-docker-osx-vnc:latest
+dockurr/windows
