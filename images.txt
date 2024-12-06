@@ -1,3 +1,2 @@
-dockurr/windows
-dockurr/macos
 ollama/ollama
+jellyfin/jellyfin
